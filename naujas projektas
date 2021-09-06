@@ -1,0 +1,18 @@
+using System;
+
+namespace ConsoleApp13
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            char= 'A'
+            System.Console.WriteLine("Abecele nuo A iki Z");
+            for (A = 'A'; A <= 'Z'; i++)
+            {
+             System.Console.WriteLine( A);
+            }
+            
+        }
+    }
+}
